@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, You’ve stolen my heart completely!!! 🥰💖 But itni pyaari ladki aur itni jaldi haan? Thoda aur nakhre karke mujhe tarpaao na! 🥰✨",
+        title: "I love you sooo Much!!!❤️, then lets make it official now on 27th march IA 💖🥰✨",
         showClass: {
           popup: `
             animate__animated

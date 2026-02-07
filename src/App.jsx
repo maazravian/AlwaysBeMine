@@ -247,7 +247,7 @@ export default function Page() {
   useEffect(() => {
     if (yesPressed && noCount < 4 && !popupShown) {
       Swal.fire({
-        title: "I love you sooo Much!!!❤️, then lets make it official now on 27th march IA 💖🥰✨",
+        title: "Thank you 😘😌 then lets make it official now on 27th march IA 💖🥰✨. I love you sooooooooo Much!!!❤️",
         showClass: {
           popup: `
             animate__animated
